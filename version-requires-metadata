@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 29 20:03:23 2020
-
-@author: denis
-"""
 from importlib_metadata import version, requires, metadata
 
 bibliotecas = ['pandas', 'numpy', 'naoexiste', 
